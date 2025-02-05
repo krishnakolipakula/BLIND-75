@@ -1,5 +1,6 @@
-# Find Minimum in Rotated Sorted Array (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+# Find Minimum in Rotated Sorted Array
 
+[**Problem Link**](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
 ## Problem Statement
 **Given a sorted and rotated array `nums` of unique elements, return the minimum element of this array.**
@@ -98,3 +99,4 @@ def findMin(nums: List[int]) -> int:
 If you find a bug or have an improvement suggestion, feel free to **open an issue** or submit a **pull request**!
 
 🚀 **Happy Coding!**
+
