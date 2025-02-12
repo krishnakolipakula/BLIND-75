@@ -10,7 +10,7 @@ The solution identifies the missing number in a sequence of integers from `0` to
 - **Sum Formula for First `n` Natural Numbers:**  
   Use the formula to calculate the sum of the first `n` natural numbers:  
   \[
-  \text{sum} = \frac{n(n + 1)}{2}
+  \Sum=n*(n+1)//2
   \]  
   This gives the expected sum of the numbers from `0` to `n`.
 
