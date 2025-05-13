@@ -14,7 +14,7 @@ We maintain three pointers:
 🔁 Step-by-Step:
 1. Traverse the list using curr.
 2. For each node, store the next node in next_node.
-3. Reverse the current node's pointer to point to prev.
+3. Reverse the current nodes pointer to point to prev.
 4. Move prev and curr one step forward.
 5. Continue until curr becomes None.
 6. prev will point to the new head of the reversed list.
