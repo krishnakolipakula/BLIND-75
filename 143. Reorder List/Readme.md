@@ -1,5 +1,5 @@
 # 🧠 Problem 143: Reorder List
-[**Problem Link**]([https://leetcode.com/problems/missing-number/description/](https://leetcode.com/problems/reorder-list/description/))
+[**Problem Link**](https://leetcode.com/problems/reorder-list/description/)
 
 **Difficulty:** Medium  
 **Tags:** Linked List, Two Pointers, Stack, Recursion  
